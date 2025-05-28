@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 1. Запустите приложение:
 ```bash
-python encoder_qt.py
+python mq.py
 ```
 
 2. Используйте интерфейс для:
